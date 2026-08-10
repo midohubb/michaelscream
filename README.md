@@ -1,4 +1,4 @@
-# Michael's Creami
+# Michael's Cream
 
 A small static recipe site for Ninja Creami Deluxe recipes.
 
